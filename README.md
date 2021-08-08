@@ -1,2 +1,2 @@
-# udemy-todo-js
+# udemy-js
 Created with CodeSandbox
