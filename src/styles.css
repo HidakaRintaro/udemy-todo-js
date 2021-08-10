@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-  background: #ff7fff;
 }
 
 input {
@@ -45,7 +44,7 @@ li {
 }
 
 .complete-area {
-  background-attachment: #ffffe0;
+  background-color: #ffffe0;
   width: 400px;
   min-height: 30px;
   padding: 8px;
