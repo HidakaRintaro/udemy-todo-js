@@ -1,7 +1,7 @@
 {
-  "name": "udemy-todo-js",
+  "name": "udemy-js-todo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Udemyのjs学習。Todo編",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
